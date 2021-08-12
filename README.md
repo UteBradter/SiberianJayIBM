@@ -1,9 +1,9 @@
 # R code for an individual-based model of Siberian jay
 
-Code written by Ute Bradter, ute.bradter@nina.no with packages based on PROJ.4. 
+Code written by Ute Bradter, ute.bradter@nina.no
 
-For Bradter et al. Habitat suitability models based on opportunistic citizen science data - evaluating forecasts from alternative models versus an individual-based model
-
+For Bradter et al. Habitat suitability models based on opportunistic citizen science data - evaluating forecasts from alternative models versus an individual-based model.  
+At the time of writing, packages based on PROJ.4 were used.
 
 ##### MARK models required that life-history stages of Siberian jay were represented by a one letter abbreviation and this abbreviation has been used in the IBM:
 E: summer breeder observed in March  
