@@ -17,3 +17,16 @@
 # Neighbourhood: NbhAge / PatchVAMeanAge10km
 # WinterTemp in HSM: TempJF
 # SpringPrec in HSM: PrecAM
+
+# YearMin: Start year
+# YearMax: End year
+# YearsScenarioPeriod: Interval (number of years) at which forest conditions will be updated
+# StandsShp: optional shapefile to restrict IBM to a smaller area
+# CovarDir: directory from which covariates will be read in
+# StartNoRep: first repetition
+# NoRep: final repetition
+# SJLogInit: initial conditions
+# TargetAreaName: Name prefixed to output files
+# NamingComment: Name identifying covariates and suffixed to output files
+# TempFolder: temporary files from each iteration will be written to this directory
+# OutFolder: IBM output will be written to this directory 
