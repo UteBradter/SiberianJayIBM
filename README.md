@@ -2,7 +2,8 @@
 
 Code written by Ute Bradter, ute.bradter@nina.no
 
-For Bradter et al. Habitat suitability models based on opportunistic citizen science data - evaluating forecasts from alternative models versus an individual-based model.  
+For Bradter, Ozgul, Griesser, Layton-Matthews, Eggers, Singer, Sandercock, Haverkamp & Snäll. Habitat suitability models based on opportunistic citizen science data - evaluating forecasts from alternative models versus an individual-based model. Diversity and Distributions.
+
 At the time of writing, packages based on PROJ.4 were used.
 
 ##### MARK models required that life-history stages of Siberian jay were represented by a one letter abbreviation and this abbreviation has been used in the IBM:
