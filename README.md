@@ -2,7 +2,7 @@
 
 Code written by Ute Bradter, ute.bradter@nina.no
 
-For Bradter, Ozgul, Griesser, Layton-Matthews, Eggers, Singer, Sandercock, Haverkamp & Snäll. Habitat suitability models based on opportunistic citizen science data - evaluating forecasts from alternative models versus an individual-based model. Diversity and Distributions.
+For Bradter, Ozgul, Griesser, Layton-Matthews, Eggers, Singer, Sandercock, Haverkamp & Snäll. Habitat suitability models based on opportunistic citizen science data: Evaluating forecasts from alternative models versus an individual-based model. Diversity and Distributions. https://doi.org/10.1111/ddi.13409.
 
 At the time of writing, packages based on PROJ.4 were used.
 
